@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://tools.365digital.agency/$1"
+ }
+  ]
+}
